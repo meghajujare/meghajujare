@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩‍💻 Technical Skills
 
-<!--
-**meghajujare/meghajujare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here are the key technical skills I possess:
 
-Here are some ideas to get you started:
+## 🛠️ Programming Languages
+- **Python**: Proficient in writing scripts and applications for data analysis, web scraping, and machine learning.
+- **Java**: Strong background in object-oriented programming, algorithms, and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Data Analysis & Visualization
+- **Pandas**: Expertise in data manipulation and analysis using DataFrames.
+- **NumPy**: Skilled in numerical operations and handling arrays efficiently.
+- **Matplotlib**: Experience in creating static, animated, and interactive visualizations.
+- **Seaborn**: Knowledgeable in statistical data visualization and creating informative graphics.
+
+## 📈 Web Development
+- **Streamlit**: Developed interactive web applications for data exploration and visualization.
+  
+## 🗄️ Database Management
+- **MySQL**: Experience in database design, querying, and management for data-driven applications.
+
+## 🌐 Tools & Technologies
+- **Heroku**: Deployed web applications for easy access and sharing.
+- **Power BI**: Capable of building and iterating on dashboards for real-time data insights.
+
+## 🤖 Problem Solving
+- Solved **200+ problems** on platforms like LeetCode and GeeksforGeeks, showcasing proficiency in algorithms and data structures.
+
